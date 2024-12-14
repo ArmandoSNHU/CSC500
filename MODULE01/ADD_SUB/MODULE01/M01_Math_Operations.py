@@ -1,6 +1,10 @@
+# Armando Gomez 
+# CSC500
+# Module_01
+
 # Combined Program: Addition, Subtraction, Multiplication, and Division
 
-# Function for addition and subtraction of the numbers
+# Step #01 Function for addition and subtraction of the numbers
 def addition_and_subtraction():
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
@@ -13,7 +17,7 @@ def addition_and_subtraction():
     print(f"The addition of {num1} and {num2} is {addition}")
     print(f"The subtraction of {num1} and {num2} is {subtraction}")
 
-# Function for multi and div
+# step # 02 Function for multi and div
 def multiplication_and_division():
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
